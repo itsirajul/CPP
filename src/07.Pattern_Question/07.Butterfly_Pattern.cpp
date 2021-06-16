@@ -12,7 +12,7 @@ int main()
         {
             cout<<"*";
         }
-        int space= 2*n-2*i;
+        int space= 2*n - 2*i;
         for(int j=1;j<=space;j++)
         {
             cout<<" ";
