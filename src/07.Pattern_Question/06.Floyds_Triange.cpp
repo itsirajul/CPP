@@ -11,7 +11,10 @@ int main()
     {
         for(int j=1;j<=i;j++)
         {
-            cout<<
+            cout<<count<<" ";
+            count++;
         }
+        cout<<endl;
     }
+    return 0;
 }
