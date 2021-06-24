@@ -13,7 +13,7 @@ int main()
     {
         if(n%i==0)
         {
-            cout<<"Non-Prime Number"<<endl;
+            cout<<"Non-Prime"<<endl;
             flag=1;
             break;
         }
