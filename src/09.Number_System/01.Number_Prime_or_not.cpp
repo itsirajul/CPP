@@ -20,7 +20,7 @@ int main()
     }
     if(flag==0)
     {
-        cout<<"Prime Number"<<endl;
+        cout<<"Prime"<<endl;
     }
 
     return 0;
