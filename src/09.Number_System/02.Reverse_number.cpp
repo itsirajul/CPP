@@ -13,7 +13,7 @@ int main()
         reverse= reverse*10 + lastdigit;
         n=n/10;
     }
-    cout<<reverse;
+    cout<<reverse<<endl;
 
     return 0;
 
