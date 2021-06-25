@@ -14,7 +14,7 @@ int main()
         sum+=pow(lastdigit,3);
         n=n/10;
     }
-    if(sum--originaln)
+    if(sum==originaln)
     {
         cout<<"Armstrong Number"<<endl;
     }
