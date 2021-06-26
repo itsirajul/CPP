@@ -7,5 +7,11 @@ int main()
     int a,b;
     cin>>a>>b;
 
-    for
+    for(int i=a;i<=b;i++)
+    {
+        if(isPrime(i))
+        {
+            
+        }
+    }
 }
