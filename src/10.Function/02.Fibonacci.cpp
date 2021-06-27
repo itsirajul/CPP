@@ -5,7 +5,7 @@ void fib(int n)
 {
     int t1=0;
     int t2=1;
-    int nextTerm;
+    int nextTerm; 
 
     for(int i=1;i<=n;i++)
     {
