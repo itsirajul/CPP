@@ -1,1 +1,4 @@
-#include<bi
+#include<bits/stdc++.h>
+using namespace std;
+
+int sum(int n)
