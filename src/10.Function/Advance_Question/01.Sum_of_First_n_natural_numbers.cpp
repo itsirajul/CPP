@@ -14,4 +14,6 @@ int32_t main()
     cin>>n;
 
     cout<<sum(n)<<endl;
+    cout<<sum(n)<<endl;
+
 }
