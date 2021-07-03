@@ -15,5 +15,7 @@ int32_t main()
 
     cout<<sum(n)<<endl;
     cout<<sum(n)<<endl;
+        cout<<sum(n)<<endl;
+
 
 }
