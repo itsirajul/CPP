@@ -25,6 +25,7 @@ int main()
         if(isPrime(i))
         {
             cout<<i<<endl;
+            cout<<i<<endl;
         }
     }
     return 0;
